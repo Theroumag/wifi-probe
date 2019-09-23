@@ -1,8 +1,4 @@
 import os, platform
-from pprint import pprint
-
-#Arkadiya12
-#Teofipl161
 
 def find_windows_wifi():
     win_wifi_dict = {}
